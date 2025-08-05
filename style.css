@@ -1,5 +1,5 @@
 :root {
-    --cor-principal: #000000;
+    --cor-principal: #183F4D;
     --cor-secundaria: #f5f1eb;
     --cor-destaque: #D4AF37;
     --cor-texto: #000000;
@@ -248,4 +248,5 @@ footer {
 footer p {
     margin: 0;
     font-size: 18px;
+
 }

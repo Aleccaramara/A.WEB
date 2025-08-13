@@ -120,6 +120,7 @@ nav a:hover {
 }
 #CURIOSIDADES h3,
 #PORTFOLIO h3,
+#SOBRE h3,
 #CAUSOS h3,
 #CONTATOS h3 {
     text-align: center;
